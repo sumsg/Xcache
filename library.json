@@ -1,0 +1,22 @@
+{
+  "name": "Xcache",
+  "version": "1.0.0",
+  "description": "A EEPROM extension",
+  "keywords": "EEPROM,cache,rom,EEPROM read,EEPROM write,esp8266,esp32",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/biner88/Xcache.git"
+  },
+  "authors":
+  [
+    {
+      "name": "biner88",
+      "url": "https://github.com/biner88"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/biner88",
+  "frameworks": "Arduino",
+  "platforms": "*"
+}
