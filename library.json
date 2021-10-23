@@ -1,6 +1,6 @@
 {
   "name": "Xcache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A EEPROM extension",
   "keywords": "EEPROM,cache,rom,EEPROM read,EEPROM write,esp8266,esp32",
   "repository":
